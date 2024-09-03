@@ -3,3 +3,6 @@
 # Diretório do ambiente virtual
 venv/
 env/
+
+# Arquivo de resultado da validacao de emails
+resultados_validacao_emails.xlsx

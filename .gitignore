@@ -1,0 +1,5 @@
+# .gitignore
+
+# Diretório do ambiente virtual
+venv/
+env/

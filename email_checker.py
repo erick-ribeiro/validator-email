@@ -36,32 +36,8 @@ def save_to_excel(results, filename='email_validation_results.xlsx'):
 
 # Lista de e-mails para validação
 email_list = [
-    "saude@divinopolis.mg.gov.br",
-    "saude@itauna.mg.gov.br",
-    "saude@parademinas.mg.gov.br",
-    "saude@novaserrana.mg.gov.br",
-    "saude@bomdespacho.mg.gov.br",
-    "saude@formiga.mg.gov.br",
-    "saude@lagoadaprata.mg.gov.br",
-    "saude@papagaios.mg.gov.br",
-    "saude@pompeu.mg.gov.br",
-    "saude@oliveira.mg.gov.br",
-    "saude@santoantoniodomonte.mg.gov.br",
-    "saude@campobelo.mg.gov.br",
-    "saude@arcos.mg.gov.br",
-    "saude@claudio.mg.gov.br",
-    "saude@pitangui.mg.gov.br",
-    "saude@carmodocajuru.mg.gov.br",
-    "saude@perdigao.mg.gov.br",
-    "saude@itapecerica.mg.gov.br",
-    "saude@luz.mg.gov.br",
-    "saude@bambui.mg.gov.br",
-    "saude@prefeitura.pbh.gov.br",
-    "saude@uberlandia.mg.gov.br",
-    "saude@contagem.mg.gov.br",
-    "saude@pjf.mg.gov.br",
-    "saude@betim.mg.gov.br",
-    "saude@montesclaros.mg.gov.br"
+    '2zJ5c@example.com',
+    'zJ5cX@example.com'
 ]
 
 # Validação dos e-mails
